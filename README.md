@@ -1,4 +1,4 @@
-Web Development Internship Projects – CodSoft
+Web Development Internship Projects – CodSoft:
 This repository contains the projects I built during my web development internship at CodSoft. These projects demonstrate my skills in front-end development, UI design, and responsive web design.
 
 Projects Overview:
